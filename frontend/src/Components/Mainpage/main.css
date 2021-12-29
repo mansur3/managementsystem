@@ -1,0 +1,10 @@
+.navbarContainer {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(8, 168, 173);
+}
+.buttonContainer {
+    float: right;
+    margin-right: 300px;
+    margin-top: 10px;
+}
